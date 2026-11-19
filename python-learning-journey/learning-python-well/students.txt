@@ -1,0 +1,5 @@
+001|Temi|22|Computer Science
+002|John|21|Engineering
+003|David
+004|Sarah|twenty|Medicine
+005|James|20|Engineering

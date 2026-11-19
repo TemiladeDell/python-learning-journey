@@ -1,0 +1,32 @@
+[
+    {
+    "timestamp": "...",
+    "level": "ERROR",
+    "message": "Network connection Timeout"
+    },
+    {
+    "timestamp": "...",
+    "level": "ERROR",
+    "message": "Database connection failed"
+    },
+    {
+    "timestamp": "...",
+    "level": "ERROR",
+    "message": "Could not establish connection"
+    },
+    {
+    "timestamp": "...",
+    "level": "INFO",
+    "message": "Database updated"
+    },
+    {
+    "timestamp": "...",
+    "level": "INFO",
+    "message": "New table created"
+    },
+    {
+    "timestamp": "...",
+    "level": "WARNING",
+    "message": "Python version outdated"
+    }
+]

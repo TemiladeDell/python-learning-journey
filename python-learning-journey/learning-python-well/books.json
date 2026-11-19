@@ -1,0 +1,27 @@
+[
+    {
+        "title": "The tale of Naruto Uzumaki",
+        "Author": "Jiraya",
+        "Year": "2012",
+        "Genre": "Shonen",
+        "Available": true,
+        "Borrower" : []
+    },
+    {
+        "title": "The Promised neverland",
+        "Author": "Kaiu Shirai",
+        "Year": "2016",
+        "Genre": "Dark Fantasy",
+        "Available": true,
+        "Borrower" : []
+    },
+    {
+        "title": "My Hero Academia",
+        "Author": "Kōhei Horikoshi",
+        "Year": "2014",
+        "Genre": "Shonen",
+        "Available": false,
+        "Borrower" : ["George Azoru"]
+    }
+    
+]

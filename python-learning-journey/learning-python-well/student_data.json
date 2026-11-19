@@ -1,0 +1,17 @@
+[
+    {   "name": "Fredrick", 
+        "age": "19", 
+        "courses": {"Mathematics": 91, "Physics": 72, "Chemistry": 85}
+    },
+    {
+        "name": "Samson",
+        "age": "22",
+        "courses": {"Mathematics": 63, "Physics:": 71, "Chemistry": 82}
+    },
+    {
+        "name": "Tope",
+        "age" : "18",
+        "courses": {"Biology": 81, "Chemistry": 70, "Physics": 53}
+    }
+
+]   

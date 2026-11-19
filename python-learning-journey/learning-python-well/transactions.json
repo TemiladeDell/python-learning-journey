@@ -1,0 +1,17 @@
+[
+    {
+        "Account" : {"name": "Temilade", "Age":  "22", "DOB":  "9th March 2004", "ID":"0122137977" },
+        "Balance" : 10000,
+        "Transactions" : []
+    },
+    {
+        "Account" : {"name": "Fredrick", "Age":  "31", "DOB":  "7th April 2001", "ID":"0122859333" },
+        "Balance" : 2700,
+        "Transactions" : []
+    },
+    {
+        "Account" : {"name": "Tope", "Age":  "18", "DOB":  "10th September 2008", "ID":"0185423569" },
+        "Balance" : 14400,
+        "Transactions" : []
+    }
+]
