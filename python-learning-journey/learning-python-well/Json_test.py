@@ -4,9 +4,9 @@ from operator import index
 #1
 
 # person_details = {
-#     "name": "Temilade Akinyimika",
-#     "Age": 22,
-#     "Country": "Nigeria",
+#     "name": "John Doe",
+#     "Age": 34,
+#     "Country": "Almeria",
 #     "favorite programming language": "Python"
 #     }
 
@@ -28,7 +28,7 @@ from operator import index
 #3
 
 # x = {
-#     "name" : "Temilade Akinyimika",
+#     "name" : "John Doe",
 #     "skills": ["cooking", "Programming"],
 #     "Languages": ["Python", "English", "Yoruba"],
 #     "Foods" :["Eba", "Rice", "Chicken"]
@@ -42,9 +42,9 @@ from operator import index
 #4 
 
 # user = {
-#     "name": "Temilade",
-#     "Age": 22,
-#     "Country": "Nigeria"
+#     "name": "John",
+#     "Age": 34,
+#     "Country": "Almeria"
 # }
 
 # user_json =json.dumps(user)
@@ -75,7 +75,7 @@ from operator import index
 # actual_file = file1.readline()
 # x = json.loads(actual_file)
 
-# x["email"] = "temiladedell@gmail.com"
+# x["email"] = "xxxxxxxxx@gmail.com"
 # x["skills"] = ["Programming", "Engineering", "Cooking"]
 
 
